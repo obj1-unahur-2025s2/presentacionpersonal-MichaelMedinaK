@@ -1,13 +1,19 @@
-![Logo UNAHUR](./UNAHUR.png)
+# 👨‍💻 Programación con Objetos I  
+## 📌 Presentación Personal  
 
-# Programación con objetos I
-## Presentación Personal
+### 🙋‍♂️ Datos Personales  
+- **Nombre:** Michael Medina  
+- **Edad:** 30 años  
+- **Lugar de residencia:** Caballito, Capital Federal (Argentina)  
+- **Nacionalidad:** Colombiano (Bogotá)  
+- **Estudios:** Actualmente curso la carrera de Programación en la Universidad de Hurlingham  
+- **Trabajo:** Programador Junior en una empresa de inversiones  
+- **Emprendimiento:** Tengo un negocio propio de tequeños 🍴  
+- **Objetivo:** Terminar mi carrera para crecer como profesional y seguir avanzando en el mundo de la tecnología  
 
-### Datos Personales
-- Mi nombre es:
-- Vivo en
+### 🌟 Otra Información  
+- Experiencia utilizando **GitHub** y herramientas de desarrollo colaborativo  
 
+---
 
-### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+![Foto personal](mia.png)
